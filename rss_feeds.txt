@@ -1,4 +1,7 @@
 # Add one RSS feed URL per line. Lines starting with # are ignored.
-https://www.dailythanthi.com/stories.rss
-https://www.hindutamil.in/stories.rss
+https://indianexpress.com/section/opinion/editorials/feed
+https://feeds.feedburner.com/ndtvnews-top-stories
+https://indianexpress.com/section/cities/chennai/feed
+
+
 
